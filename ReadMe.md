@@ -68,7 +68,7 @@ The format of showing the image
 
 ## Contributors
 
-- [Abdallah Wael](https://github.com/abdallahwaseem)
+- [Abdallah Marzouk](https://github.com/abdallahwaseem)
 - [Karim Khalifa](https://github.com/Karim-T-Khalifa)
 - [Youssef Tarek](https://github.com/BoJo30)
-- [Abdallah Fawzy]()
+- [Abdallah Fawzy](https://github.com/Abdallahfawzyy)
