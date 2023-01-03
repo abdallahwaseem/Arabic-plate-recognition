@@ -65,3 +65,10 @@ The format of showing the image
 
 - <img src="outputPlateDetection/57.jpg" width="300"  />
 - Plate Number : ق ع ن ٢ ٩ ٧
+
+## Contributors
+
+- [Abdallah Wael](https://github.com/abdallahwaseem)
+- [Karim Khalifa](https://github.com/Karim-T-Khalifa)
+- [Youssef Tarek](https://github.com/BoJo30)
+- [Abdallah Fawzy]()
